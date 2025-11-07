@@ -69,3 +69,17 @@ Always open to discussing opportunities, open-source projects, or engineering ch
 ## ✨ A Personal Touch
 
 Outside of coding, I maintain a regimen of **discipline and consistency** through sports (Gym, Calisthenics, and Running), which translates into my work ethic: **resilience** when facing complex problems and **perseverance** in learning. Furthermore, I am focused on the **continuous study of English** (Intermediate Level), seeking to expand my professional horizons.
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&title_color=007bff&icon_color=007bff&line_height=22" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default&hide_border=true&title_color=007bff&icon_color=007bff" alt="Top Languages" />
+</p>
+
+***
+
+¡Tu README está completo! Solo debes reemplazar `YOUR-GITHUB-USERNAME` con `juanHerediaPro` en las dos URLs de las tarjetas estadísticas. ¡Mucha suerte en la búsqueda de oportunidades laborales!
