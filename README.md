@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm Juan Heredia - Full Stack Developer | GCP Focus
+# 🚀 Hello, I'm David Heredia - Full Stack Developer | GCP Focus
 
 > **"Continuous learning and rapid adaptation."**
 
@@ -26,15 +26,15 @@ As a developer with a focus on the cloud, I master the following key technologie
 
 My experience is centered on designing and implementing solutions with a strong *Serverless* and *Artificial Intelligence* component in the cloud.
 
-* **Serverless & AI Deployment (GCP):** Development of complete *full-stack* solutions (Python/Django) deployed on **Google Cloud Run** and integrating **Vertex AI (Gemini 2.5 Flash)** models and **Prompt Design**, demonstrating proficiency in the application lifecycle in the cloud.
-* **Microservices and Containers:** Implementation of *backend microservices* with **Java/Spring Boot** and **Python/Django**, efficiently packaged and managed with **Docker**, and deployed in Google Cloud containerized environments.
-* **Security and Authentication:** Experience in using **Firebase Authentication** and **Firestore** for *Serverless* solutions, as well as handling cloud credentials and authentication (ADC).
+* ✨ **Serverless & AI Deployment (GCP):** Developed complete *full-stack* solutions (Python/Django) deployed on **Google Cloud Run** and integrating **Vertex AI (Gemini 2.5 Flash)** models and **Prompt Design**, demonstrating proficiency in the application lifecycle in the cloud.
+* 💻 **Microservices and Containers:** Implemented *backend microservices* with **Java/Spring Boot** and **Python/Django**, efficiently packaged and managed with **Docker**, and deployed in Google Cloud containerized environments.
+* 🔒 **Security and Authentication:** Experienced in using **Firebase Authentication** and **Firestore** for *Serverless* solutions, as well as handling cloud credentials and authentication (ADC).
 
 ---
 
 ## 🎓 Key Certifications (Verifiable)
 
-My academic background is complemented by verifiable technical achievements, divided into two main areas:
+My academic background is complemented by verifiable technical achievements, divided into two primary areas, demonstrating my commitment to continuous learning:
 
 ### ☁️ Cloud & APIs Focus (GCP)
 
@@ -70,16 +70,4 @@ Always open to discussing opportunities, open-source projects, or engineering ch
 
 Outside of coding, I maintain a regimen of **discipline and consistency** through sports (Gym, Calisthenics, and Running), which translates into my work ethic: **resilience** when facing complex problems and **perseverance** in learning. Furthermore, I am focused on the **continuous study of English** (Intermediate Level), seeking to expand my professional horizons.
 
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&title_color=007bff&icon_color=007bff&line_height=22" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default&hide_border=true&title_color=007bff&icon_color=007bff" alt="Top Languages" />
-</p>
-
 ***
-
-¡Tu README está completo! Solo debes reemplazar `YOUR-GITHUB-USERNAME` con `juanHerediaPro` en las dos URLs de las tarjetas estadísticas. ¡Mucha suerte en la búsqueda de oportunidades laborales!
