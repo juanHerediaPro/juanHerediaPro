@@ -32,27 +32,27 @@ Mi experiencia se centra en diseñar e implementar soluciones con un fuerte comp
 
 ---
 
-## 🏅 Certificaciones Cloud (Visibles)
+## 🎓 Certificaciones Clave (Verificables)
 
-Mi enfoque en GCP está respaldado por mis logros. Aquí están mis certificaciones clave.
+Mi formación académica se complementa con logros técnicos verificables, divididos en dos áreas principales:
 
-> **¡Muestra el valor visual de tu perfil aquí!**
-> Inserta una fila de imágenes de tus 5 *badges* de Google Cloud.
-> **Ejemplo de cómo usar el código para cada imagen:**
->
-> `![Cloud Run Cert] (URL/Ruta de tu imagen de Cloud Run)`
-> `![Firebase Cert] (URL/Ruta de tu imagen de Firebase)`
-> `![Kubernetes Cert] (URL/Ruta de tu imagen de Kubernetes)`
-> `![Apigee Cert] (URL/Ruta de tu imagen de Apigee)`
-> `![Prompt Design Badge] (URL/Ruta de tu imagen de Prompt Design)`
+### ☁️ Focus Cloud & APIs (GCP)
 
-### Habilidades Técnicas Adicionales:
+* **[Serverless Apps con Cloud Run - oct. 2025]** (URL de verificación de Credly)
+* **[Serverless Apps con Firebase - oct. 2025]** (URL de verificación de Credly)
+* **[Kubernetes Applications en Google Cloud - oct. 2025]** (URL de verificación de Credly)
+* **[APIs Seguras con Apigee X - oct. 2025]** (URL de verificación de Credly)
+* **[Prompt Design en Vertex AI - nov. 2025]** (URL de verificación de Credly)
 
-* 📚 Java Spring Data JPA: Bases de Datos
-* 📚 SQL y MySQL
-* 📚 Docker Fundamentos
-* 📚 Django REST Framework
-* 📚 Java SE Orientado a Objetos
+### 💻 Bases Técnicas & Backend (Verificables)
+
+* **[Java Spring Data JPA: Bases de Datos]** (URL de verificación de Certificado)
+* **[SQL y MySQL]** (URL de verificación de Certificado)
+* **[Docker Fundamentos]** (URL de verificación de Certificado)
+* **[Django REST Framework]** (URL de verificación de Certificado)
+* **[Java SE Orientado a Objetos]** (URL de verificación de Certificado)
+
+> **INSTRUCCIONES:** Reemplaza el texto dentro del paréntesis **()** con el enlace de verificación de tu certificado (ya sea Credly, LinkedIn Learning, o la plataforma que uses) para que el reclutador pueda hacer clic directamente.
 
 ---
 
