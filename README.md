@@ -10,15 +10,15 @@ Busco activamente oportunidades laborales como **Desarrollador Serverless/Cloud*
 
 ## 🛠️ Stack y Herramientas Destacadas
 
-Como desarrollador con enfoque en la nube, domino las siguientes tecnologías. *(Asegúrate de reemplazar los placeholders con las rutas a tus imágenes/badges)*
+Como desarrollador con enfoque en la nube, domino las siguientes tecnologías clave.
 
-| Categoría | Tecnologías Clave | Imagen/Badge |
-| :--- | :--- | :--- |
-| **Cloud Computing** (Focus) | **Google Cloud Platform (GCP)**, **Cloud Run (Serverless)**, Vertex AI, Cloud Build, Cloud SQL, Artifact Registry, Secret Manager. | `![GCP Badge] (URL/Ruta de la imagen de tu GCP Badge)` `![Cloud Run Badge] (URL/Ruta de la imagen de tu Cloud Run Badge)` |
-| **Backend** | **Java (Spring Boot)**, Python (**Django**), APIs REST. | `![Java Badge] (URL/Ruta de la imagen de tu Java Badge)` `![Spring Boot Badge] (URL/Ruta de la imagen de tu Spring Boot Badge)` `![Python Badge] (URL/Ruta de la imagen de tu Python Badge)` |
-| **Bases de Datos** | MySQL, PostgreSQL. | `![MySQL Badge] (URL/Ruta de la imagen de tu MySQL Badge)` `![PostgreSQL Badge] (URL/Ruta de la imagen de tu PostgreSQL Badge)` |
-| **DevOps/Tools** | **Docker**, Postman, Git, Visual Studio, IntelliJ IDEA. | `![Docker Badge] (URL/Ruta de la imagen de tu Docker Badge)` `![Postman Badge] (URL/Ruta de la imagen de tu Postman Badge)` |
-| **Frontend/Otras** | HTML, CSS, JavaScript, Firebase (Auth, Firestore). | `![HTML Badge] (URL/Ruta de la imagen de tu HTML Badge)` `![Firebase Badge] (URL/Ruta de la imagen de tu Firebase Badge)` |
+| Categoría | Tecnologías Clave |
+| :--- | :--- |
+| **Cloud Computing** (Focus) | **Google Cloud Platform (GCP)**, **Cloud Run (Serverless)**, Vertex AI, Cloud Build, Cloud SQL, Artifact Registry, Secret Manager. |
+| **Backend** | **Java (Spring Boot)**, Python (**Django**), APIs REST. |
+| **Bases de Datos** | MySQL, PostgreSQL. |
+| **DevOps/Tools** | **Docker**, Postman, Git, Visual Studio, IntelliJ IDEA. |
+| **Frontend/Otras** | HTML, CSS, JavaScript, Firebase (Auth, Firestore). |
 
 ---
 
@@ -32,17 +32,19 @@ Mi experiencia se centra en diseñar e implementar soluciones con un fuerte comp
 
 ---
 
-## 🎓 Formación y Certificaciones Clave
+## 🏅 Certificaciones Cloud (Visibles)
 
-Mi compromiso con el aprendizaje continuo se refleja en mi formación académica y mis **cinco certificaciones enfocadas en el *Cloud*** y desarrollo.
+Mi enfoque en GCP está respaldado por mis logros. Aquí están mis certificaciones clave.
 
-### Certificaciones Google Cloud (Focus Serverless, IA & Kubernetes):
-
-* 🏅 **Serverless Apps con Cloud Run** - *Google Cloud* (oct. 2025)
-* 🏅 **Serverless Apps con Firebase** - *Google Cloud* (oct. 2025)
-* 🏅 **Kubernetes Applications en Google Cloud** - *Google Cloud* (oct. 2025)
-* 🏅 **APIs Seguras con Apigee X** - *Google Cloud* (oct. 2025)
-* 🏅 **Prompt Design en Vertex AI** - *Google Cloud Skill Badge* (nov. 2025)
+> **¡Muestra el valor visual de tu perfil aquí!**
+> Inserta una fila de imágenes de tus 5 *badges* de Google Cloud.
+> **Ejemplo de cómo usar el código para cada imagen:**
+>
+> `![Cloud Run Cert] (URL/Ruta de tu imagen de Cloud Run)`
+> `![Firebase Cert] (URL/Ruta de tu imagen de Firebase)`
+> `![Kubernetes Cert] (URL/Ruta de tu imagen de Kubernetes)`
+> `![Apigee Cert] (URL/Ruta de tu imagen de Apigee)`
+> `![Prompt Design Badge] (URL/Ruta de tu imagen de Prompt Design)`
 
 ### Habilidades Técnicas Adicionales:
 
@@ -69,5 +71,3 @@ Siempre abierto a discutir oportunidades, proyectos *open source* o desafíos de
 ## ✨ Un Toque Personal
 
 Fuera del código, mantengo un régimen de **disciplina y constancia** a través del deporte (Gym, Calistenia y *Running*), lo que se traduce en mi ética de trabajo: **resistencia** ante los problemas complejos y **perseverancia** en el aprendizaje. Además, estoy enfocado en el **estudio continuo de Inglés** (Nivel Intermedio), buscando expandir mis fronteras profesionales.
-
-***
