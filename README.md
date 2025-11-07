@@ -60,7 +60,7 @@ Siempre abierto a discutir oportunidades, proyectos *open source* o desafíos de
 
 | Ícono | Plataforma | Enlace |
 | :--- | :--- | :--- |
-| 🌐 | **LinkedIn Profesional** | `www.linkedin.com/in/juan-david-heredia-useche` |
+| 🌐 | **LinkedIn Profesional** | `[www.linkedin.com/in/juan-david-heredia-useche]` |
 | 📧 | **Email** | *[juanherediau@gmail.com]* |
 | 📁 | **GitHub** (Estás aquí) | `[github.com/juanHerediaPro]` |
 
