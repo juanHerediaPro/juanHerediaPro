@@ -38,21 +38,19 @@ Mi formación académica se complementa con logros técnicos verificables, divid
 
 ### ☁️ Focus Cloud & APIs (GCP)
 
-* **[Serverless Apps con Cloud Run - oct. 2025]** (URL de verificación de Credly)
-* **[Serverless Apps con Firebase - oct. 2025]** (URL de verificación de Credly)
-* **[Kubernetes Applications en Google Cloud - oct. 2025]** (URL de verificación de Credly)
-* **[APIs Seguras con Apigee X - oct. 2025]** (URL de verificación de Credly)
-* **[Prompt Design en Vertex AI - nov. 2025]** (URL de verificación de Credly)
+* **[Serverless Apps con Cloud Run - oct. 2025]** (https://www.credly.com/badges/d85c2517-d062-40da-9663-a8f5b47220bb/linked_in_profile)
+* **[Serverless Apps con Firebase - oct. 2025]** (https://www.credly.com/badges/d9436075-680f-4181-becb-17551483d953/linked_in_profile)
+* **[Kubernetes Applications en Google Cloud - oct. 2025]** (https://www.credly.com/badges/6bcb8dec-6c25-4458-a7bd-5761979d862c/linked_in_profile)
+* **[APIs Seguras con Apigee X - oct. 2025]** (https://www.credly.com/badges/b7119ba8-1a7e-48f6-b737-e4a2854d57e2/linked_in_profile)
+* **[Prompt Design en Vertex AI - nov. 2025]** (https://www.credly.com/badges/760ebc59-26c0-4f6e-a523-322b8013a2e6)
 
 ### 💻 Bases Técnicas & Backend (Verificables)
 
-* **[Java Spring Data JPA: Bases de Datos]** (URL de verificación de Certificado)
-* **[SQL y MySQL]** (URL de verificación de Certificado)
-* **[Docker Fundamentos]** (URL de verificación de Certificado)
-* **[Django REST Framework]** (URL de verificación de Certificado)
-* **[Java SE Orientado a Objetos]** (URL de verificación de Certificado)
-
-> **INSTRUCCIONES:** Reemplaza el texto dentro del paréntesis **()** con el enlace de verificación de tu certificado (ya sea Credly, LinkedIn Learning, o la plataforma que uses) para que el reclutador pueda hacer clic directamente.
+* **[Java Spring Data JPA: Bases de Datos]** (https://platzi.com/p/juanherediau/curso/7825-course/diploma/detalle/)
+* **[SQL y MySQL]** (https://platzi.com/p/juanherediau/curso/11975-course/diploma/detalle/)
+* **[Docker Fundamentos]** (https://platzi.com/p/juanherediau/curso/8781-course/diploma/detalle/)
+* **[Django REST Framework]** (https://platzi.com/p/juanherediau/curso/10728-course/diploma/detalle/)
+* **[Java SE Orientado a Objetos]** (https://platzi.com/p/juanherediau/curso/1629-course/diploma/detalle/)
 
 ---
 
@@ -62,8 +60,8 @@ Siempre abierto a discutir oportunidades, proyectos *open source* o desafíos de
 
 | Ícono | Plataforma | Enlace |
 | :--- | :--- | :--- |
-| 🌐 | **LinkedIn Profesional** | `[www.linkedin.com/in/juan-david-heredia-useche]` |
-| 📧 | **Email** | *[juan.david.heredia.useche@email.com - **Reemplaza con tu Email Real**]* |
+| 🌐 | **LinkedIn Profesional** | `www.linkedin.com/in/juan-david-heredia-useche` |
+| 📧 | **Email** | *[juanherediau@gmail.com]* |
 | 📁 | **GitHub** (Estás aquí) | `[github.com/juanHerediaPro]` |
 
 ---
