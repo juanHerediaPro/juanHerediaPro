@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm David Heredia - Full Stack Developer | GCP Focus
+# 🚀 Hello, I'm Juan Heredia - Full Stack Developer | GCP Focus
 
 > **"Continuous learning and rapid adaptation."**
 
